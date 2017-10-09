@@ -1,0 +1,28 @@
+{	
+	"name": "SharkTeam",
+	"project": {
+		"name": "SpaceHunter",
+		"description": "2D шутер - платформер"
+	},
+	"size": 3,
+	"members": [
+		{
+			"name": "Максим",
+			"surname": "Колотовкин",
+			"group": "АПО-11",
+			"link_to_git_profile": "https://github.com/maxim218"
+		},
+		{
+			"name": "Баязит",
+			"surname": "Умутбаев",
+			"group": "АПО-12",
+			"link_to_git_profile": "https://github.com/juviee"
+		},
+		{
+			"name": "Артём",
+			"surname": "Икчурин",
+			"group": "АПО-12",
+			"link_to_git_profile": "https://github.com/a-ikchurin"
+		} 
+	]
+}
